@@ -1,0 +1,16 @@
+modpacks/
+  modName/
+    resources/
+      background.jpg
+      icon.png
+      logo_180.png
+    modpack.yml
+  mods/
+    buildcraft/
+      buildcraft-v3.4.3.zip [zip file layout is like so:]
+        mods/
+          buildcraft.jar
+    someothermod/
+    anothermod/
+  modlibrary.yml
+  modpacks.yml
